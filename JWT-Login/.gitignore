@@ -35,4 +35,5 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-/.vscode/
+.vscode/
+/home/h5misi/Documents/JWT-Login-with-Spring/.vscode
